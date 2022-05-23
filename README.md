@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Harshit Bajeta</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">A passionate learner</h3>
 
 - 🔭 I’m currently working on **Face recognition**
 
