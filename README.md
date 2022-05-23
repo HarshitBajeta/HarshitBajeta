@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Real time fake news detection**
 
 - 📫 How to reach me **harshitbajeta22@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<!-- 
+<h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
