@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Harshit Bajeta</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🔭 I’m currently working on **Face recognition**
+- 🔭 I’m currently working on **RNN related projects**
 
-- 🌱 I’m currently learning **ML,Backend**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👯 I’m looking to collaborate on **Real time fake news detection**
 
