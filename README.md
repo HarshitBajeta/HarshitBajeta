@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Harshit Bajeta</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🔭 I’m currently working on **RNN related projects**
+- 🔭 I’m currently working on **RNN related projects and ReactJS**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **NodeJS**
 
-- 👯 I’m looking to collaborate on **Real time fake news detection**
+- 👯 I’m looking to collaborate on **ReactJS and NLP related projects. **
 
 - 📫 How to reach me **harshitbajeta22@gmail.com**
 <!-- 
